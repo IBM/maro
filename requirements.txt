@@ -1,0 +1,5 @@
+lale[full]
+jsonschema
+numpy
+ipython
+requests
